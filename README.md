@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm **Abdallah Mahmoud**, a passionate full-stack developer with solid experience in building scalable web applications using a wide variety of technologies. I love clean code, robust architecture, and solving real-world problems through technology.
+I'm **Mohammed Radwan**, a passionate full-stack developer with solid experience in building scalable web applications using a wide variety of technologies. I love clean code, robust architecture, and solving real-world problems through technology.
 
 ---
 
